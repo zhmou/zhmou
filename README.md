@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 if you want to know more about me, please feel free to visit my personnal blog site:
-zhmou.github.io
+https://zhmou.github.io
 <!--
 **zhmou/zhmou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
